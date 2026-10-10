@@ -1,0 +1,6 @@
+params.seed,metrics.accuracy_mean,metrics.accuracy_sd,params.git_commit
+0,0.97892,0.01593,82b44e9
+1,0.97893,0.01466,82b44e9
+2,0.97893,0.01466,82b44e9
+3,0.98243,0.0062,82b44e9
+42,0.97367,0.01859,82b44e9
